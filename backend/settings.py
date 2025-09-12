@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-76ne0_cuu80*f%l-3$6v5usqvi-q-#n729+y!13p-b3bfn#)1w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["103.75.196.157","productkade.ir","productkade.ir",'127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ["103.75.196.157","productkade.ir","api.productkade.ir",'127.0.0.1', 'localhost']
 
 
 # Application definition
