@@ -3,6 +3,6 @@ from rest_framework.response import Response
 
 @api_view(['GET'])
 def hello(request):
-    return Response({'message': 'سلام از Django 🚀'})
+    return Response({'message': 'سلام'})
 
 # Create your views here.
